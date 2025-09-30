@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌱 CxC - Chauhan and Company Landing Page
 
-## Getting Started
+A modern **landing page project** built with Next.js to showcase  
+**CxC - Chauhan and Company**, a premium fresh produce supplier operating since 1995.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📸 Project Screenshots
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Landing Page 1](https://github.com/user-attachments/assets/7426e49e-ad22-47de-866c-62e664c2f63f)  
+![Landing Page 2](https://github.com/user-attachments/assets/2335c89d-547a-4e11-8213-061877ca7565)  
+![Landing Page 3](https://github.com/user-attachments/assets/c3ad3bf7-e030-440a-877d-66059b4a2a15)  
+![Landing Page 4](https://github.com/user-attachments/assets/d59ce175-5218-4eb4-a5f2-4dfdf70fa17d)  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📝 Project Overview
 
-## Learn More
+**CxC - Chauhan and Company** delivers the finest fresh raw fruits and vegetables with  
+a trusted team of **50+ professionals**. This landing page highlights:
 
-To learn more about Next.js, take a look at the following resources:
+- Hero section with company introduction  
+- Partner showcase (Zomato, Big Basket, Swiggy, etc.)  
+- Product listings with prices and emojis  
+- Process timeline (Source → Quality Check → Package → Deliver)  
+- Contact information  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Features
 
-## Deploy on Vercel
+- 🌐 **Responsive Landing Page** built with **Next.js**  
+- 🎨 Styled using modern UI practices  
+- 📦 Product showcase with prices & categories  
+- 🔄 Company process explained in steps  
+- 📸 Partner logos and trusted associations  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🥭 Premium Fresh Produce (Sample Data)
+
+| Product       | Emoji | Price |
+|---------------|-------|-------|
+| Pomegranate   | 🍎    | $2.00 |
+| Kinnu         | 🍊    | $1.50 |
+| Mango         | 🥭    | $1.80 |
+| Malta         | 🍊    | $1.60 |
+| Orange        | 🍊    | $1.40 |
+| Lemon         | 🍋    | $1.20 |
+| Gourd         | 🥒    | $1.00 |
+| Guava         | 🍈    | $1.30 |
+| Peas          | 🟢    | $0.80 |
+| Sweet Corn    | 🌽    | $1.10 |
+
+---
+
+## ⚙️ Tech Stack
+
+- **Next.js** – React framework for production  
+- **TailwindCSS / Shadcn UI** – Modern styling  
+- **Framer Motion** – Smooth animations  
+- **Deployment Ready** – Optimized for scalability  
+
+---
+
+## 📬 Contact
+
+For collaboration or inquiries:  
+📧 [deepanshuchauhan1415@gmail.com](mailto:deepanshuchauhan1415@gmail.com)
+
+---
+
+© 2024 **CxC - Chauhan and Company** • *Landing Page Project*
